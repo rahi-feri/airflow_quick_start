@@ -1,0 +1,41 @@
+today is: 2025-09-10 06:57:43.340858 and the input value is 10today is: 2025-09-10 08:15:52.350888 and the input value is 20 ==> {}
+today is: 2025-09-10 08:18:07.260577 and the input value is 20 ==> {}
+today is: 2025-09-10 08:18:11.183801 and the input value is 20 ==> {}
+today is: 2025-09-10 08:20:44.893957 and the input value is 20 ==> {}
+today is: 2025-09-10 08:25:51.684212 and the input value is 20 ==> {}
+today is: 2025-09-10 08:28:11.404761 and the input value is 20 ==> {}
+today is: 2025-09-10 08:33:13.142503 and the input value is 20 ==> {}
+today is: 2025-09-10 08:38:10.997640 and the input value is 20 ==> {}
+today is: 2025-09-10 08:48:11.256574 and the input value is 20 ==> {}
+today is: 2025-09-10 08:58:11.640432 and the input value is 20 ==> {}
+today is: 2025-09-10 09:00:33.695487 and the input value is 20 ==> {}
+today is: 2025-09-10 09:05:25.122189 and the input value is 20 ==> {}
+today is: 2025-09-10 09:08:11.375695 and the input value is 20 ==> {}
+today is: 2025-09-10 09:08:35.668457 and the input value is 20 ==> {}
+today is: 2025-09-10 09:13:14.303947 and the input value is 20 ==> {}
+today is: 2025-09-10 09:15:38.569079 and the input value is 20 ==> {'your_input_value': '20'}
+today is: 2025-09-10 09:18:29.505377 and the input value is your_input_value ==> {'your_input_value': '20'}
+today is: 2025-09-10 09:24:42.451482 and the input value is  ==> {'your_input_value': ''}
+today is: 2025-09-10 09:25:56.497156 and the input value is 30 ==> {'your_input_value': '30'}
+today is: 2025-09-10 09:29:10.256967 and the input value is 30 and 30 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 09:29:46.347627 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 09:38:11.614193 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 09:48:11.665836 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 09:58:12.083961 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:09:55.064072 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:14:01.496667 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:18:11.070190 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:28:11.862735 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:38:11.904204 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:48:12.172481 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 10:58:11.172937 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 11:08:11.693525 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 11:18:11.461698 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 11:28:12.130210 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 11:38:11.759885 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 11:48:10.966936 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 11:58:12.543491 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 12:38:11.698984 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 12:48:11.285198 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 12:58:11.162417 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
+today is: 2025-09-10 13:08:11.461593 and the input value is 30 and 100 ==> {'your_a': '30', 'your_b': '100'}
