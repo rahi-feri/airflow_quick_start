@@ -1,0 +1,1 @@
+today is: 2025-08-09 11:05:44.453613 and the input value is 10
